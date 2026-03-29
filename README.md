@@ -1,10 +1,10 @@
-# Unit Convert
+# unit-convert
 
-A zero-dependency Python CLI tool.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
-python unit_convert.py test
-python unit_convert.py demo
+python3 unit_convert.py
+python3 unit_convert.py test
 ```
